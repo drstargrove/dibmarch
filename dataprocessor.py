@@ -23,7 +23,7 @@ def round10(x):
 def round05(x):
 	return round(x*20)/20
 
-with open('hygdata_v3.csv') as csvfile:
+with open('https://github.com/astronexus/HYG-Database/blob/master/hygdata_v3.csv') as csvfile:
 	hygreader = csv.DictReader(csvfile, delimiter=',')
 	countColorIndexUnknown =0
 	countConstellationUnknown = 0
