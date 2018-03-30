@@ -11,6 +11,4 @@ Run 'python data_processor.py' (python2.7) to process the data.
 
 Color-magnitude diagram and sky map example: 
 ![alt text](https://github.com/drstargrove/dibmarch/blob/master/colormagnitude-diagram-andromeda.png "color-magnitude diagram")
-
-Sky map example: 
 ![alt text](https://github.com/drstargrove/dibmarch/blob/master/skymap-andromeda.png "sky map")
